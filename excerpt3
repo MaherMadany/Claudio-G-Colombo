@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Excerpt 3 - Maria bambina</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+    <h1>Claudio G Colombo</h1>
+    <h2>Excerpt 3 from "Maria bambina"</h2>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="excerpt1.html">Excerpt 1</a></li>
+            <li><a href="excerpt2.html">Excerpt 2</a></li>
+            <li><a href="excerpt3.html">Excerpt 3</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    <section class="excerpt">
+        <h3>Page 3</h3>
+        <p>La vita andava avanti e Maria trovava
