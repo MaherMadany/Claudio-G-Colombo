@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Excerpt 2 - Maria bambina</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+    <h1>Claudio G Colombo</h1>
+    <h2>Excerpt 2 from "Maria bambina"</h2>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="excerpt1.html">Excerpt 1</a></li>
+            <li><a href="excerpt2.html">Excerpt 2</a></li>
+            <li><a href="excerpt3.html">Excerpt 3</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    <section class="excerpt">
+        <h3>Page 2</h3>
+        <p>Continuando a camminare, Maria pensava a tutti i cambiamenti che avevano attraversato la sua vita negli ultimi mesi. La guerra aveva lasciato cicatrici profonde nella città e nel cuore delle persone...</p>
+    </section>
+    <nav>
+        <ul>
+            <li><a href="excerpt1.html">Previous: Excerpt 1</a></li>
+            <li><a href="excerpt3.html">Next: Excerpt 3</a></li>
+        </ul>
+    </nav>
+</main>
+
+<footer>
+    <p>&copy; 2023 Claudio G Colombo. Tutti i diritti riservati.</p>
+    <p>Per contattare l'autore: <a href="mailto:info@claudiogcolombo.it">info@claudiogcolombo.it</a></p>
+</footer>
+<script src="scripts.js"></script>
+</body>
+</html>
